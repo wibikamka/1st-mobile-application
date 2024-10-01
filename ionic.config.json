@@ -1,0 +1,7 @@
+{
+  "name": "coba gslc moba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
