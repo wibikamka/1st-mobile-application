@@ -1,0 +1,12 @@
+/* Tab1.css */
+h1 {
+    color: #3880ff; /* Warna biru Ionic */
+    text-align: center; /* Pusatkan teks */
+    margin-top: 20px; /* Tambahkan margin atas */
+  }
+  
+  .ion-item {
+    --background: #f0f0f0; /* Warna latar belakang item */
+    margin: 10px 0; /* Margin atas dan bawah untuk item */
+  }
+  
